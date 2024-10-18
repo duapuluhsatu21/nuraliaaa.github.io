@@ -1,2 +1,9 @@
 .header{color: blue; font-style: italic;
 }
+section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    padding: 0 100px;
+}
