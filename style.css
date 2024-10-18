@@ -1,4 +1,14 @@
-{h1 :sans-serif}
-{h1: italic;
-font-size:medium;}
-{title: blue;font-size: large;font-style: normal;}
+.header{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: blue;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.box img{
+    width: 200px;
+    height: 200px;
+}
