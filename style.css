@@ -1,4 +1,4 @@
-h1{font-family :sans-serif}
-h2{font-style: italic;
+{h1 :sans-serif}
+{h1: italic;
 font-size:medium;}
-title{color: blue;font-size: large;font-style: normal;}
+{title: blue;font-size: large;font-style: normal;}
