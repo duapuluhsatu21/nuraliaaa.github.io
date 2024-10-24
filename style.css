@@ -83,5 +83,11 @@ h2{
     object-fit: cover;
     border-radius: 20px;
 }
-
+.cointainer-img3{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
    
