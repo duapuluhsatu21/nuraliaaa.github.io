@@ -110,4 +110,7 @@ h2{
 }
 .cointainer-img4{
         width: 100%;
+        justify-content: center;
+        align-items: center;
+}
 
